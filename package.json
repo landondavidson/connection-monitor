@@ -1,0 +1,12 @@
+{
+  "name": "connection-monitor",
+  "version": "1.0.0",
+  "description": "Test harness for mssql and tedious",
+  "private": true,
+  "dependencies": {
+    "applicationinsights": "1.x",
+    "dotenv": "^4.0.0",
+    "mssql": "^4.1.0",
+    "tedious": "^2.3.1"
+  }
+}

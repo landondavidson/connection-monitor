@@ -1,0 +1,12 @@
+**/node_modules/**/*
+**/.expo/*
+npm-debug.*
+**/.idea/*
+**/jest.json
+**/*bundle*
+**/npm/**
+**/.expo-source/**
+mobile/android
+web/public/index.html
+.env
+yarn-error.log
